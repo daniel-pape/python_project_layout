@@ -8,7 +8,7 @@ Python projects.
 
 ```bash
 mkdir $PROJECT_DIR
-git clone ... $PROJECT_DIR
+git clone https://github.com/daniel-pape/python_project_layout.git $PROJECT_DIR
 ```
 
 # Project layout
