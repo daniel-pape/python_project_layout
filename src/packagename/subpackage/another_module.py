@@ -1,0 +1,2 @@
+def buzz():
+    return "buzz!"
