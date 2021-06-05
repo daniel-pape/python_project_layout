@@ -39,5 +39,6 @@ cd $PROJECT_DIR
 # Install package `packagename` (cf. `setup.py`)
 pip install -e .
 # Run tests in `test/`
+pip install pytest
 pytest
 ```
